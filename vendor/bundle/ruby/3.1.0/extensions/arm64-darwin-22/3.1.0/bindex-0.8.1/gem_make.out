@@ -1,0 +1,15 @@
+current directory: /Users/anand/vessel/lab/r/rtestapp/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/anand/.rbenv/versions/3.1.3/bin/ruby -I /Users/anand/.rbenv/versions/3.1.3/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/anand/vessel/lab/r/rtestapp/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230224-22046-6hd7cy sitelibdir\=./.gem.20230224-22046-6hd7cy clean
+
+current directory: /Users/anand/vessel/lab/r/rtestapp/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230224-22046-6hd7cy sitelibdir\=./.gem.20230224-22046-6hd7cy
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/anand/vessel/lab/r/rtestapp/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230224-22046-6hd7cy sitelibdir\=./.gem.20230224-22046-6hd7cy install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20230224-22046-6hd7cy/skiptrace/internal

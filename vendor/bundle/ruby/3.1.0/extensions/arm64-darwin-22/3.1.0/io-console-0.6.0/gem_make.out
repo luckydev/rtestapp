@@ -1,0 +1,19 @@
+current directory: /Users/anand/vessel/lab/r/rtestapp/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+/Users/anand/.rbenv/versions/3.1.3/bin/ruby -I /Users/anand/.rbenv/versions/3.1.3/lib/ruby/3.1.0 extconf.rb
+checking for termios.h... yes
+checking for cfmakeraw() in termios.h... yes
+checking for sys/ioctl.h... yes
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... yes
+creating Makefile
+
+current directory: /Users/anand/vessel/lab/r/rtestapp/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230224-22046-c8q6hb sitelibdir\=./.gem.20230224-22046-c8q6hb clean
+
+current directory: /Users/anand/vessel/lab/r/rtestapp/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230224-22046-c8q6hb sitelibdir\=./.gem.20230224-22046-c8q6hb
+compiling console.c
+linking shared-object io/console.bundle
+
+current directory: /Users/anand/vessel/lab/r/rtestapp/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230224-22046-c8q6hb sitelibdir\=./.gem.20230224-22046-c8q6hb install
+/usr/bin/install -c -m 0755 console.bundle ./.gem.20230224-22046-c8q6hb/io
